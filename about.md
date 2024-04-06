@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is my daily writing effort.
 
-### More Information
+## Hi, I'm Juandav.eth! 
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm interested in Ethereum and will be sharing my writings about it here. Mainly the interaction of Ethereum and education.
 
-### Contact me
+### Send me a text
 
-[email@domain.com](mailto:email@domain.com)
+Want to start a conversation? Let's chat on Telegram: [juandaveth at Telegram](https://t.me/juandaveth)
