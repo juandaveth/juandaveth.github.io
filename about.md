@@ -3,10 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+This is my daily writing habit, sharing about Ethereum in English. This is inspired in Nathan Barry's experiment: [Writing 1000 words a day](https://www.youtube.com/watch?v=LPkNt1gFdZ4&t=8707s) + Seth Godin's quest to write every day. Don't expect daily post, but a constant effort on sharing something online.
 
-This is my daily writing habit, sharing about Ethereum in English. This is inspired in Nathan Barry's experiment: [Writing 1000 words a day](https://www.youtube.com/watch?v=LPkNt1gFdZ4&t=8707s).
-
-## Hi, I'm Juandav.eth! 
+## Hola, I'm juandav.eth!
 
 I'm interested in Ethereum and will be sharing my writings about it here. Mainly the interaction of Ethereum and education.
 
