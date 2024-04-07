@@ -7,7 +7,7 @@ This is my attempt to write about Ethereum in personal terms. I will avoid any t
 
 I feel a strong connection to the community. What is an Ethereum community then? A group of aligned individuals willing to use Ethereum and improve it. Let me explain why I consider myself part of that community.
 
-## The Way I use Ethereum
+## The Way I Use Ethereum
 
 I use Ethereum as a currency. *Ether* is the money I have most of my savings and investments in. Being part of this world is interacting financially with a new system. Think of it as a nation that trust and gives value to that form of money. Inside that nation, there are states, cities and villages that accept **ETH** and are open to trade it for their own token.
 
