@@ -11,9 +11,9 @@ I feel a strong connection to the community. What is an Ethereum community then?
 
 I use Ethereum as a currency. *Ether* is the money I have most of my savings and investments in. Being part of this world is interacting financially with a new system. Think of it as a nation that trust and gives value to that form of money. Inside that nation, there are states, cities and villages that accept **ETH** and are open to trade it for their own token.
 
-Sharing a currency is way of forming a common identity. After all, is a belief that those numbers on the screen are valuable for me and the other people inside that nation. We operate inside something bigger than us.
+Sharing a currency is a way of forming a common identity. We share a belief, those numbers on the screen are valuable for me and the other people inside that nation. We operate inside something bigger than us.
 
-We identify with ourselves with our names. There's a particular way of naming people inside Ethereum. You can see it on X. For example, my account is [`@juandaveth`](https://twitter.com/juandaveth){:target="_blank"}, the last three letters are a sign of the family I feel part of. My first name is Juan David, I shortened it to `juandav` and stated my last name as `.eth`.
+We identify with ourselves using names. There's a particular way of naming people inside Ethereum. You can see it on X. For example, my account is [`@juandaveth`](https://twitter.com/juandaveth){:target="_blank"}, the last three letters are a sign of the family I feel part of. My first name is Juan David, I shortened it to `juandav` and stated my last name as `.eth`.
 
 Nation and family. Those are important ideas in any people's life. Both are related to belonging to a group. I use the same currency, then I'm part of a nation **ETH**. I've added a sort of lastname to my personal identity, I am `juandav.eth`.
 
